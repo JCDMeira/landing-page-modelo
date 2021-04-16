@@ -17,7 +17,7 @@
 - [Procedimentos de instalação](#id03)
 - [Meios de contato](#id06)
 
-# Sobre o projeto <a name="id01></a>
+# Sobre o projeto <a name="id01"></a>
 
 Projeto proposto no curso Curso de JavaScript e TypeScript do básico ao avançado 2020
 
