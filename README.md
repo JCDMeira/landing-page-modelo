@@ -1,4 +1,4 @@
-<p  align="center"><img src="./apresentacao/logo.jpg" align="center"></img></p>
+<!-- <p  align="center"><img src="./apresentacao/logo.jpg" align="center"></img></p> -->
 
 <p align="center">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JCDMeira/landing-page-modelo">
