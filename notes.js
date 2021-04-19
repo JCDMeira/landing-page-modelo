@@ -26,6 +26,12 @@
     //#obs# Código da aula
 //- https://github.com/luizomf/landing-page-cursojs/commit/13a32217f7b344efcca22ea89ff24501749b784c
 
+//_ Aula 600
+    //#obs# Código da aula
+//- https://github.com/luizomf/landing-page-cursojs/commit/69a4563a0a18fd2e403467d4228c690475c2f165
+    //#obs# Create better designed websites
+//- https://undraw.co
+
 //_
     //#obs# 
 //-
