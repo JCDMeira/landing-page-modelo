@@ -38,6 +38,10 @@
     //#obs# unDraw
 //- https://undraw.co
 
+//_ Aula 602
+    //#obs# Código da aula
+//- https://github.com/luizomf/landing-page-cursojs/commit/446b697309a720c0ba9bf6b4616d9d479b2df036
+
 //_
     //#obs# 
 //-

@@ -25,3 +25,40 @@
     justify-content: center;
     text-align: center;
 }
+.grid-one{
+    display: flex;
+    justify-content: center;
+}
+.grid-one-content{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+.grid-one-content p{
+    margin-bottom: 1rem;
+}
+.grid-one-content p + p{
+    margin-bottom: 8rem;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--gap);
+    counter-reset: grid-counter;
+}
+.grid h3{
+    font-size: 2rem;
+    position: relative;
+    padding-left: 5rem;
+    padding-bottom: 3rem;
+}
+.grid h3::before{
+    counter-increment: grid-counter;
+    content: counter(grid-counter);
+    position: absolute;
+    font-size: 8rem;
+    font-style: italic;
+    top: -5rem;
+    left: -1.5rem;
+    transform: rotate(5deg);
+}
