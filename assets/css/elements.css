@@ -1,9 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
 html{
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -19,7 +21,11 @@ h1{
     text-transform: uppercase;
 }
 h2{
-    font-size: 5.5rem;
+    font-size: 6rem;
+    margin-bottom: 5rem;
+    /* text-align: center; */
+    text-transform: uppercase;
+    line-height: 1.2;
 }
 h3{
     font-size: 5rem;
@@ -35,4 +41,7 @@ h6{
 }
 a{
     text-decoration: none;
+}
+p{
+    margin-bottom: .5rem;
 }
