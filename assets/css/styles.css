@@ -4,11 +4,11 @@
     display: grid;
     grid-template-columns: 1fr 1.4fr;
     gap: var(--gap);
-    height: 100vh;
+    min-height: 100vh;
 }
 .intro-text-content, .intro-img{
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     justify-content: center;
 }
 .intro-text-content h2{
