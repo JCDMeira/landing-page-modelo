@@ -46,6 +46,7 @@ p{
     margin-bottom: .5rem;
 }
 .responsive-table {
+    width: 100%;
     overflow: hidden;
     overflow-x: auto;
 }
