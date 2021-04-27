@@ -50,6 +50,10 @@
     //#obs# Código da aula
 //- https://github.com/luizomf/landing-page-cursojs/commit/3e64809da5af70e893de077c1d05b4a8ea7c270c
 
+//_ Aula 607
+    //#obs# Código da aula
+//- https://github.com/luizomf/landing-page-cursojs/commit/f9c95cb0558aa46afde1ab9ce389b3cbad471bb9
+
 //_
     //#obs# 
 //-

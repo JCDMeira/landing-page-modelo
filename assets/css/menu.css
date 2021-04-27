@@ -5,7 +5,7 @@
     right: 0;
     width: 100%;
     border-bottom: 0.1rem solid var(--light-gray-color);
-    z-index: 1;
+    z-index: 1; 
 }
 .menu-content{
     display: flex;

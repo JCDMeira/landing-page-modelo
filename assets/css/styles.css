@@ -145,3 +145,21 @@ body .full-width{
 .footer a{
     color: #4682B4;
 }
+
+@media(max-width: 800px){
+    .intro-content, .grid{
+        grid-template-columns: 1fr;
+    }
+    .grid-one-content{
+        display: block;
+    }
+    .gallery-img{
+        width: 100%;
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .gallery-img img{
+        width: 100%;
+    }
+    
+}
