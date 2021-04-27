@@ -54,6 +54,10 @@
     //#obs# Código da aula
 //- https://github.com/luizomf/landing-page-cursojs/commit/f9c95cb0558aa46afde1ab9ce389b3cbad471bb9
 
+//_ Aula 608
+    //#obs#  Código da aula
+//- https://github.com/luizomf/landing-page-cursojs/commit/204b13e83d7379a19a92ecfa8cdb62a083fcc3e4
+
 //_
     //#obs# 
 //-

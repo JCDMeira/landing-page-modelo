@@ -22,14 +22,16 @@
 </head>
 
 <body>
+    <input type="checkbox" role="button" aria-label="close menu" id="close-menu" class="close-menu">
+    <label class="close-menu-label" for="close-menu" title="close menu"></label>
     <aside class="menu white-bg">
         <div class="main-content menu-content">
-            <h1>
+            <h1 onclick="getElementById('close-menu').checked = false;">
                 <a href="#logo">LOGO</a>
             </h1>
 
             <nav>
-                <ul>
+                <ul onclick="getElementById('close-menu').checked = false;">
                     <li><a href="#intro">Intro</a></li>
                     <li><a href="#topSkills">Top skills</a></li>
                     <li><a href="#Course">Course</a></li>
@@ -41,9 +43,9 @@
             </nav>
         </div>
     </aside>
-    <div class="menu-spacing" id="logo"></div>
-
+    
     <section class="intro section main-bg" id="intro">
+        <div class="menu-spacing" id="logo"></div>
         <div class="main-content intro-content">
             <div class="intro-text-content">
                 <h2>
@@ -303,7 +305,7 @@
         </div>
     </section>
 
-    
+
 
     <div class="menu-spacing"></div>
     <section class="intro section main-bg" id="contact">
@@ -337,8 +339,7 @@
                     </div>
                     <div class="form-group full-width">
                         <label for="message">Message</label>
-                        <textarea name="message" id="message" cols="30" rows="10" 
-                        placeholder="Sua mensagem"></textarea>
+                        <textarea name="message" id="message" cols="30" rows="10" placeholder="Sua mensagem"></textarea>
                     </div>
                     <div class="form-group full-width">
                         <button type="submit">Enviar</button>
@@ -349,8 +350,10 @@
 
     </section>
     <footer class="white-bg footer" id="footer">
-        <p><a target="_blank" rel="nofollow" href="https://jcdmeira.github.io">Feito com ❤ por Jean Carlos De Meira</a></p>
+        <p><a target="_blank" rel="nofollow" href="https://jcdmeira.github.io">Feito com ❤ por Jean Carlos De Meira</a>
+        </p>
     </footer>
+    <a class="back-to-top" href="#logo">TOP</a>
 </body>
 
 </html>
