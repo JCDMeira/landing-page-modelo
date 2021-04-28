@@ -19,9 +19,14 @@
 
 # Sobre o projeto <a name="id01"></a>
 
-Projeto proposto no curso Curso de JavaScript e TypeScript do básico ao avançado 2020
+Projeto proposto no curso Curso de JavaScript e TypeScript do básico ao avançado 2020, o mesmo visa a construção de uma landing-page modelo, usando diversos conhecimentos de HTML e CSS para sua construção.
+
+<p align="center">
+<img src="./assets/img/site.gif" width="800"  />
+</p>
 
 ## Detalhes do Curso de javaScrip <a name="id02"></a>
+
 Curso de JavaScript e TypeScript do básico ao avançado - Atualizado para 2020 -  Curso  completo sobre todas as nuances do JavaScript na atualidade.
 
 Contempla Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks e Redux) e back-end (com Node, Express, MySQL / MariaDB e MongoDB) para se tornar um desenvolvedor(a) full stack.
