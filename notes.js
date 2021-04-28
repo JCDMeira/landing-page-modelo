@@ -58,6 +58,14 @@
     //#obs#  Código da aula
 //- https://github.com/luizomf/landing-page-cursojs/commit/204b13e83d7379a19a92ecfa8cdb62a083fcc3e4
 
+//_ Aula 609
+    //#obs# Repositório do projeto
+//- https://github.com/luizomf/landing-page-cursojs
+    //#obs# Deploy do projeto
+//- https://landingpagecursojs.netlify.app
+    //#obs# Netilify - lugar do deploy
+//- https://www.netlify.com
+
 //_
     //#obs# 
 //-
